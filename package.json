@@ -1,0 +1,14 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": " Hello world in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erreur : aucun test spécifié\" && exit 1"
+  },
+  "author": "fadoua",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
